@@ -6,3 +6,5 @@ There's a shadow hanging over me
 Oh, yesterday came suddenly
 
 2 commit for feature
+
+3 commit for feature
